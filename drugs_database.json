@@ -1,0 +1,4 @@
+{
+    ["aspirin", "ibuprofen"]: "Increased risk of bleeding.",
+    ["warfarin", "amiodarone"]: "Increased risk of bleeding and bruising."
+}
